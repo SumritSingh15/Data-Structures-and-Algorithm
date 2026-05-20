@@ -26,7 +26,7 @@ public class findminimuminsocrtedarray {
                 end = mid;
             }
         }
-
+// bcz start returns the minimum
         return nums[start];
     }
 }
