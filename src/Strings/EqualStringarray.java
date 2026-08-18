@@ -33,7 +33,7 @@ public class EqualStringarray {
                 p2 = 0;
             }
         }
-
+//result here
         return i == word1.length && j == word2.length;
     }
 }
